@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: red plum tree
+title: "Red Plum Tree"
 url: "https://redplumtree.com/"
-baseurl:
+baseurl: 
 google_analytics_key:
 google_maps_javascript_api_key:
 snipcart_key: "MmE1MDUzOTEtM2EyYS00MTAxLWEwMGMtZWQyMzZlMzQ0ZjIyNjM2NTk4MjE3Mzk1ODU4Njkx"
@@ -12,7 +12,7 @@ snipcart_key: "MmE1MDUzOTEtM2EyYS00MTAxLWEwMGMtZWQyMzZlMzQ0ZjIyNjM2NTk4MjE3Mzk1O
 logo: /siteicon.png
 description: Camping gear for everyone
 author:
-  name: red plum tree
+  name: Red Plum Tree
   email: info@redplumtree.com
   twitter: redplumtree # twitter username without the @ symbol
   phone: "+1 23456789"
